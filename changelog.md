@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://teamber.wandeed.com/)
 
 ## Features
-<mark style="background-color: #FFFF00">Highlighted text</mark>  
+<span style="background-color: #FFFF00">Highlighted text</span>  
 <mark>tre</mark>
 - Import a HTML file and watch it magically convert to Markdown
 - Drag and drop images (requires your Dropbox account be linked)
